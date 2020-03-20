@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "CppSnippets": "https://github.com/one-harsh/vscode-cpp-snippets",
+    "coc-clangd": ">=0.2.5",
+    "coc-git": ">=1.7.7",
+    "coc-html": ">=1.2.3",
+    "coc-java": ">=1.4.8",
+    "coc-json": ">=1.2.5",
+    "coc-snippets": ">=2.1.22",
+    "coc-yaml": ">=1.0.4",
+    "flask-snippets": "https://github.com/cstrap/flask-snippets",
+    "java-snippets": "https://github.com/tushortz/vscode-Java-Snippets",
+    "python-snippets": "https://github.com/cstrap/python-snippets"
+  }
+}

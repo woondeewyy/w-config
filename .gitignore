@@ -1,1 +1,6 @@
-.ssh/
+manjaro-linux-config/w/.ssh/
+manjaro-linux-config/w/.config/clash/
+manjaro-linux-config/w/.config/coc/extensions/node_modules/
+manjaro-linux-config/w/.config/nvim/autoload/
+manjaro-linux-config/w/.config/nvim/plugged/
+zsh-guide/dot-oh-my-zsh/
